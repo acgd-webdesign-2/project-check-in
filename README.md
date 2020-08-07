@@ -4,7 +4,7 @@ time: '5 minutes'
 deliverables: 'Working website'
 ---
 
-# Animal rescue website check-in
+# Project website check-in
 
 ## Overview
 
